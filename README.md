@@ -126,38 +126,10 @@ Monolith → outbound API request.
 
 Coupon Service → receives & validates request.
 
-<<<<<<< HEAD
- Proof that the microservice is integrated!
-
- Repository Structure
-=======
-Proof that the microservice is integrated!
-
-Repository Structure
->>>>>>> d875b43 (Restructure: add monolith + coupon-service as folders)
-monolith-to-microservices-poc/
-├── bytez-monolith/       # Original monolith (with coupon logic replaced by API call)
-├── coupon-service/        # Independent coupon microservice
-├── diagrams/              # Before/After architecture diagrams
-└── README.md              # This file
-
-<<<<<<< HEAD
- Key Takeaways
-=======
-Key Takeaways
->>>>>>> d875b43 (Restructure: add monolith + coupon-service as folders)
-
 Strangler Pattern applied: old logic left in place but replaced with API calls.
 
 Microservice runs independently → can be deployed separately.
 
 Demonstrates scalability, maintainability, and separation of concerns.
-
-<<<<<<< HEAD
- 
- 
+  
 Author: Ekshith
-=======
-
-Author: Ekshith
->>>>>>> d875b43 (Restructure: add monolith + coupon-service as folders)
