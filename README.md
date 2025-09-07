@@ -10,9 +10,6 @@ Extracted service: Coupon Service.
 
 Goal: Show how coupon-related logic can be moved into a standalone microservice while keeping the monolith functional.
 
-HEAD
- Watch the 3-min Demo Video here: Demo Video
-
  Architecture
 
 Watch the 3-min Demo Video here: Demo Video
