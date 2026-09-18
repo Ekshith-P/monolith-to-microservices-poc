@@ -1,7 +1,4 @@
-Monolith to Microservices POC – Coupon Service Extraction
-Project Overview
-
-This project demonstrates how to extract a service from a Node.js monolith into an independent microservice using the Strangler Pattern.
+ extracting a service from a Node.js monolith into an independent microservice using the Strangler Pattern.
 
 Original app: BytEz
  – a Node.js/Express/MongoDB e-commerce monolith.
